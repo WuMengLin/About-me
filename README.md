@@ -1,6 +1,6 @@
 # 吳孟霖 （Meng-Lin Wu）
 
-* Birthday : Jun 26<sup>th</sup>,1991
+* Birthday : Jun 25<sup>th</sup>,1991
 * Education : 崑山科技大學 - 電腦與通訊系
 * Location : 台南市(可到外縣市工作)
 * E-Mail : leo80625@gmail.com
