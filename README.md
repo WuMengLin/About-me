@@ -22,7 +22,7 @@
 * Responsive Web Design
 * JQuery
 * JavaScript
-* Git/GitHub
+* Git & GitHub
 
 ## LAYOUT
 
