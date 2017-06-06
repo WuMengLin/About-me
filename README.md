@@ -25,8 +25,8 @@
   * 使用 SASS 規劃 Web layout 架構
 * JQuery
 * JavaScript
-  * 熟悉 jQuery 設計網頁動畫效果
-  * 了解 JSON/AJAX ，並介接第三方 API 設計 SPA 介面 (Google Map、OPEN DATA)
+  * 熟悉 jQuery 設計網頁動畫效果，並套用三方動畫插件
+  * 了解 JSON/AJAX ，並介接第三方 API 設計 SPA 介面 (Google Map、Open Data)
 * Git & GitHub
   * 熟悉 Git / Github 與基本指令運用
   * 使用 Git / Github 進行版本控制
