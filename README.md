@@ -21,7 +21,8 @@
 
 * HTML & CSS3 & SASS
 * Responsive Web Design
-* JQuery & JavaScript
+* JQuery
+* JavaScript
 * Git & GitHub
 * Adobe Photoshop & Illustrator
 
