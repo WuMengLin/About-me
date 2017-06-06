@@ -15,6 +15,7 @@
 * 2015 年 國立臺灣歷史博物館 「開館4年 2015台灣地圖節」文宣設計
 * 2016 年 台南市文化協會 網站企劃及設計執行
 * 2016 年 國立臺灣歷史博物館 「2016臺史博 開館五週年慶」主視覺及場佈文宣設計執行
+* https://issuu.com/smallfly
 
 ## SKILLS
 
@@ -23,8 +24,9 @@
 * JQuery
 * JavaScript
 * Git & GitHub
+* Adobe Photoshop & Illustrator
 
-## LAYOUT
+## WEB LAYOUT
 
 * https://wumenglin.github.io/Meng0602/
 * https://wumenglin.github.io/Meng0603/
