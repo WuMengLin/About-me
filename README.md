@@ -20,13 +20,12 @@
 ## SKILLS
 
 * HTML & CSS3 & SASS
-  * 熟悉 HTML + CSS + RWD 完成頁面架構和布局
 * Responsive Web Design
-  * 熟悉 Responsive Web Design，能夠不倚賴 Framework 進行客製化
+  * 熟悉 HTML + CSS + RWD 完成頁面架構和布局
 * JQuery
-  * 熟悉 jQuery 設計網頁動畫效果
 * JavaScript
-  * AJAX 抓取第三方 JSON 資料
+  * 熟悉 jQuery 設計網頁動畫效果
+  * 了解 JSON/Ajax ，並介接第三方 API 設計 SPA 介面 (Google Map、OPEN DATA)
 * Git & GitHub
   * 熟悉 Git / Github 與基本指令運用
 * Adobe Photoshop & Illustrator
