@@ -20,11 +20,15 @@
 ## SKILLS
 
 * HTML & CSS3 & SASS
-  * 熟悉 HTML + CSS + RWD 完成頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發手機、平板裝置適用之動態行動網站
+  * 熟悉 HTML + CSS + RWD 完成頁面架構和布局
 * Responsive Web Design
+  * 熟悉 Responsive Web Design，能夠不倚賴 Framework 進行客製化
 * JQuery
+  * 熟悉 jQuery 設計網頁動畫效果
 * JavaScript
+  * AJAX 抓取第三方 JSON 資料
 * Git & GitHub
+  * 熟悉 Git / Github 與基本指令運用
 * Adobe Photoshop & Illustrator
 
 ## WEB LAYOUT
