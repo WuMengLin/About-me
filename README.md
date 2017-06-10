@@ -12,8 +12,10 @@
 
 * CI 設計：府城做十六歲成年禮展
 * 網站規劃：台南市文化協會
+  * http://www.saccam.com.tw/
 * 文宣設計：國立臺灣歷史博物館
-* https://issuu.com/smallfly
+* 作品集：https://issuu.com/smallfly
+
 
 ## SKILLS
 
@@ -43,8 +45,6 @@
   * 身高體重指數計算 - localStorage/JSON 瀏覽器資料儲存
 * https://wumenglin.github.io/Meng0609/
   * 旅遊網 - AJAX/JSON 資料介接
-* http://www.saccam.com.tw/
-  * 台南市文化協會 - 網站規劃
 
 ## ABOUT ME
 
