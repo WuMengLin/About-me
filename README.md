@@ -40,20 +40,15 @@
 
 * https://wumenglin.github.io/Meng0602/
   * 學院官網 - HTML & CSS3 &Responsive Web Design
-
 * https://wumenglin.github.io/Meng0603/
   * 餐廳官網 - HTML & CSS3 &Responsive Web Design
   * 註冊/登入頁面 - AJAX/JSON 資料介接
-
 * https://wumenglin.github.io/Meng0607/
   * 待辦事項 - localStorage/JSON 瀏覽器資料儲存
-
 * https://wumenglin.github.io/Meng0608/
   * 身高體重指數計算 - localStorage/JSON 瀏覽器資料儲存
-
 * https://wumenglin.github.io/Meng0609/
   * 旅遊網 - AJAX/JSON 資料介接
-
 * http://www.saccam.com.tw/
   * 台南市文化協會 - 網站規劃
 
