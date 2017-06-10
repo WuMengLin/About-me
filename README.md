@@ -39,9 +39,9 @@
 ## WEB LAYOUT
 
 * https://wumenglin.github.io/Meng0602/
-  * 學院官網 - HTML & CSS3 &Responsive Web Design
+  * 學院網 - HTML & CSS3 &Responsive Web Design
 * https://wumenglin.github.io/Meng0603/
-  * 餐廳官網 - HTML & CSS3 &Responsive Web Design
+  * 餐廳網 - HTML & CSS3 &Responsive Web Design
   * 註冊/登入頁面 - AJAX/JSON 資料介接
 * https://wumenglin.github.io/Meng0607/
   * 待辦事項 - localStorage/JSON 瀏覽器資料儲存
