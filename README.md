@@ -10,6 +10,10 @@
 
 #### 台南市文化協會（Cultural Association of Tainan City）- 平面設計 - 2015 07-01 ~ 2017 03-31
 
+* CI 設計：府城做十六歲成年禮展
+* 網站規劃：台南市文化協會
+* 文宣設計：國立臺灣歷史博物館
+
 * 2015 年「府城做十六歲成年禮展」主視覺及場佈文宣設計執行
 * 2015 年 沙坡尾成年禮展文宣視覺設計
 * 2015 年 國立臺灣歷史博物館 「開館4年 2015台灣地圖節」文宣設計
@@ -34,12 +38,19 @@
 
 ## WEB LAYOUT
 
-* https://wumenglin.github.io/Meng0602/
-* https://wumenglin.github.io/Meng0603/
-* https://wumenglin.github.io/Meng0607/
-* https://wumenglin.github.io/Meng0608/
-* https://wumenglin.github.io/Meng0609/
-* http://www.saccam.com.tw/
+* 學院官網 - HTML & CSS3 &Responsive Web Design
+  * https://wumenglin.github.io/Meng0602/
+* 餐廳官網 - HTML & CSS3 &Responsive Web Design
+* 登入/註冊頁面 - AJAX/JSON 資料介接
+  * https://wumenglin.github.io/Meng0603/
+* 待辦事項 - localStorage/JSON 瀏覽器資料儲存
+  * https://wumenglin.github.io/Meng0607/
+* 待辦事項 - localStorage/JSON 瀏覽器資料儲存
+  * https://wumenglin.github.io/Meng0608/
+* 旅遊網 - AJAX/JSON 資料介接
+  * https://wumenglin.github.io/Meng0609/
+* 台南市文化協會 - 網站規劃
+  * http://www.saccam.com.tw/
 
 ## ABOUT ME
 
