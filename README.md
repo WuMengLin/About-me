@@ -19,10 +19,10 @@
 
 ## SKILLS
 
-* HTML & CSS3 & SASS
+* HTML & CSS3 & SCSS
 * Responsive Web Design
   * 熟悉 HTML + CSS + RWD 完成頁面架構和布局
-  * 使用 SASS 規劃 Web layout 架構
+  * 使用 SCSS 規劃 Web layout 架構
 * JQuery
 * JavaScript
   * 熟悉 jQuery 設計網頁動畫效果，並套用三方動畫插件
@@ -38,7 +38,8 @@
   * 學院網 - HTML & CSS3 &Responsive Web Design
 * https://wumenglin.github.io/Meng0603/
   * 餐廳網 - HTML & CSS3 &Responsive Web Design
-  * 註冊/登入頁面 - AJAX/JSON 資料介接
+  * 首頁 - 第三方 API 介接(Google Map)
+  * 註冊/登入頁面 - AJAX/JSON 資料介接
 * https://wumenglin.github.io/Meng0607/
   * 待辦事項 - localStorage/JSON 瀏覽器資料儲存
 * https://wumenglin.github.io/Meng0608/
