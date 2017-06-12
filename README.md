@@ -22,7 +22,7 @@
 * HTML & CSS3 & SCSS
 * Responsive Web Design
   * 熟悉 HTML + CSS + RWD 完成頁面架構和布局
-  * 使用 SCSS 規劃 Web layout 架構
+  * 使用 SCSS 規劃 Web layout 架構
 * JQuery
 * JavaScript
   * 熟悉 jQuery 設計網頁動畫效果，並套用三方動畫插件
