@@ -37,7 +37,7 @@
 * https://wumenglin.github.io/Meng0602/
   * 學院網 - HTML & CSS3 &Responsive Web Design
 * https://wumenglin.github.io/Meng0603/
-  * 餐廳網 - HTML & CSS3 &Responsive Web Design
+  * 餐廳網 - HTML & CSS3 &Responsive Web Design
   * 首頁 - 第三方 API 介接 (Google Map)
   * 註冊/登入頁面 - AJAX/JSON 資料介接
 * https://wumenglin.github.io/Meng0607/
