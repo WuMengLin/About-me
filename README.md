@@ -1,5 +1,6 @@
 # 吳孟霖 （Meng-Lin Wu）
 
+* 希望職務類別 : 前端工程師、網頁設計師
 * Birthday : Jun 25<sup>th</sup>,1991
 * Education : 崑山科技大學 - 電腦與通訊系
 * Location : 台南市(可到外縣市工作)
