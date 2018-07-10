@@ -9,12 +9,21 @@
 
 ## WORK EXPERIENCE
 
+#### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 網頁前端設計師 - 2017 07-10 ~ 
+
+* 網站與 APP 介面 UI 設計
+* 互聯網生計假髮服務平台：https://wig.htit.com.tw/index.aspx
+* 網站活動網頁設計、Banner設計、EDM視覺設計、APP UI規劃與設計
+* 原住民商品行銷創意大賽：http://ncut.mola.tw/
+* 公司對外所有相關之形象、產品型錄、封面、摺頁等設計包裝
+* 導覽機與販賣機等機台貼皮設計
+
 #### 台南市文化協會（Cultural Association of Tainan City）- 平面設計 - 2015 07-01 ~ 2017 03-31
 
 * CIS設計：府城做十六歲成年禮展
 * 文宣設計：國立臺灣歷史博物館
 * 網站規劃：台南市文化協會
-* 台南市文化協會官方網站：http://www.saccam.com.tw/
+* 台南市文化協會官方網站：http://leo80625.wixsite.com/fivechannels
 * 作品集連結：http://issuu.com/smallfly
 
 ## SKILLS
@@ -23,6 +32,7 @@
 * Responsive Web Design
   * 熟悉 HTML + CSS + RWD 完成頁面架構和布局
   * 使用 SCSS 規劃 Web layout 架構
+  * 使用 gulp 進行網頁前端自動化
 * JQuery
 * JavaScript
   * 熟悉 jQuery 設計網頁動畫效果，並套用三方動畫插件
@@ -46,6 +56,19 @@
   * 身高體重指數計算 - localStorage/JSON 瀏覽器資料儲存
 * https://wumenglin.github.io/Meng0609/
   * 旅遊網 - AJAX/JSON 資料介接
+  
+* https://codepen.io/SmallFly/pen/qKRLpJ
+  * THE F2E 前端修練精神時光屋 - 第一週 - Todolist
+* https://codepen.io/SmallFly/pen/RJLape
+  * THE F2E 前端修練精神時光屋 - 第二週 - Filter
+* https://codepen.io/SmallFly/pen/QxxXaV
+  * THE F2E 前端修練精神時光屋 - 第三週 - Admin Order
+* https://codepen.io/SmallFly/pen/vrVmOj
+  * THE F2E 前端修練精神時光屋 - 第四週 - Product Gallery
+* https://codepen.io/SmallFly/pen/bKZzBr
+  * THE F2E 前端修練精神時光屋 - 第五週 - Comic Viewer
+* https://codepen.io/SmallFly/pen/vaYreR
+  * THE F2E 前端修練精神時光屋 - 第六週 - Validation
 
 ## ABOUT ME
 
