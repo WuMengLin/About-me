@@ -9,7 +9,7 @@
 
 ## WORK EXPERIENCE
 
-#### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 網頁前端設計師 - 2017 07-10 ~ 
+#### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 前端設計師 - 2017 07-10 ~ 
 
 * 網站與 APP 介面 UI 設計
 * 互聯網生計假髮服務平台：https://wig.htit.com.tw/index.aspx
