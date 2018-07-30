@@ -69,7 +69,12 @@
   * THE F2E 前端修練精神時光屋 - 第五週 - Comic Viewer
 * https://codepen.io/SmallFly/pen/vaYreR
   * THE F2E 前端修練精神時光屋 - 第六週 - Validation
-
+* https://codepen.io/SmallFly/pen/oMbVqW
+  * THE F2E 前端修練精神時光屋 - 第七週 - Canvas Game
+* https://codepen.io/SmallFly/pen/bjoWzo
+  * THE F2E 前端修練精神時光屋 - 第八週 - parallax scrolling
+* https://codepen.io/SmallFly/pen/pZdMYg
+  * THE F2E 前端修練精神時光屋 - 第九週 - Skill Tree
 ## ABOUT ME
 
 * 畢業後參加了廣告設計以及網頁設計課程，並自學習色彩學、造形原理、設計實務等設計知識。
