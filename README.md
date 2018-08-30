@@ -31,6 +31,7 @@
 
 * HTML & CSS3 & SCSS
 * Responsive Web Design
+* Bootstrap 4
   * 熟悉 HTML + CSS 完成頁面架構和布局
   * 客製化響應式設計(RWD Design)
   * 使用 Bootstrap 建立網頁及元件
