@@ -12,8 +12,8 @@
 #### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 前端設計師 - 2017 07-10 ~ 
 
 * 網站與 APP 介面 UI 設計
-* 互聯網生計假髮服務平台：https://wig.htit.com.tw/index.aspx
 * 網站活動網頁設計、Banner設計、EDM視覺設計、APP UI規劃與設計
+* 互聯網生計假髮服務平台：https://wig.htit.com.tw/index.aspx
 * 原住民商品行銷創意大賽：http://ncut.mola.tw/
 * 全國高級中等學校職業類科專任教師赴公民營機構研習：http://study.htit.com.tw/
 * 公司對外所有相關之形象、產品型錄、封面、摺頁等設計包裝
