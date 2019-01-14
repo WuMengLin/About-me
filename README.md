@@ -14,7 +14,7 @@
 * 網站與 APP 介面 UI 設計
 * 網站活動網頁設計、Banner設計、EDM視覺設計、APP UI規劃與設計
 * 全國高級中等學校職業類科專任教師赴公民營機構研習：http://study.htit.com.tw/
-* 原住民商品行銷創意大賽：http://ncut.mola.tw/
+* 原住民商品行銷創意大賽活動頁面製作
 * 互聯網生計假髮服務平台：https://wig.htit.com.tw/index.aspx
 * 公司對外所有相關之形象、產品型錄、封面、摺頁等設計包裝
 * 導覽機與販賣機等機台貼皮設計
@@ -24,7 +24,7 @@
 * CIS設計：府城做十六歲成年禮展
 * 文宣設計：國立臺灣歷史博物館
 * 網站規劃：台南市文化協會
-* 台南市文化協會官方網站：http://leo80625.wixsite.com/fivechannels
+* 台南市文化協會官方網站規劃(wix)：http://leo80625.wixsite.com/fivechannels
 * 作品集連結：http://issuu.com/smallfly
 
 ## SKILLS
@@ -54,8 +54,6 @@
   * 餐廳網 - HTML & CSS3 &Responsive Web Design
   * 首頁 - 第三方 API 介接 (Google Map)
   * 註冊/登入頁面 - AJAX/JSON 資料介接
-* https://wumenglin.github.io/Meng0607/
-  * 待辦事項 - localStorage/JSON 瀏覽器資料儲存
 * https://wumenglin.github.io/Meng0608/
   * 身高體重指數計算 - localStorage/JSON 瀏覽器資料儲存
 * https://wumenglin.github.io/Meng0609/
@@ -79,6 +77,7 @@
   * THE F2E 前端修練精神時光屋 - 第八週 - parallax scrolling
 * https://codepen.io/SmallFly/pen/pZdMYg
   * THE F2E 前端修練精神時光屋 - 第九週 - Skill Tree
+  
 ## ABOUT ME
 
 * 畢業後參加了廣告設計以及網頁設計課程，並自學習色彩學、造形原理、設計實務等設計知識。
