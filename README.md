@@ -52,17 +52,20 @@
 * Adobe Photoshop & Illustrator
 
 ## WEB LAYOUT
-
-* https://wumenglin.github.io/Meng0602/
-  * 學院網 - HTML & CSS3 &Responsive Web Design
+* https://wumenglin.github.io/test/dist/index.html#/
+  * 購物網與後台 - HTML & CSS3 &Responsive Web Design
+  * 使用Vue 串接後端 API
+  * 使用Vue Router架構打造單頁應用(SPA)
 * https://wumenglin.github.io/Meng0603/
   * 餐廳網 - HTML & CSS3 &Responsive Web Design
   * 首頁 - 第三方 API 介接 (Google Map)
   * 註冊/登入頁面 - AJAX/JSON 資料介接
-* https://wumenglin.github.io/Meng0608/
-  * 身高體重指數計算 - localStorage/JSON 瀏覽器資料儲存
 * https://wumenglin.github.io/Meng0609/
   * 旅遊網 - AJAX/JSON 資料介接
+* https://wumenglin.github.io/Meng0608/
+  * 身高體重指數計算 - localStorage/JSON 瀏覽器資料儲存
+* https://wumenglin.github.io/Meng0602/
+  * 學院網 - HTML & CSS3 &Responsive Web Design
   
 * https://codepen.io/SmallFly/pen/qKRLpJ
   * THE F2E 前端修練精神時光屋 - 第一週 - Todolist
