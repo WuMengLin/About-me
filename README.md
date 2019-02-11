@@ -45,7 +45,7 @@
   * 了解 Vue 的運行概念
   * 使用 Vue 串接後端 API
   * 使用Vue Router架構打造單頁應用(SPA)
-  * Vue 與 Webpack Cli 工具使用
+  * 熟悉 Webpack Cli 工具使用
 * Git & GitHub
   * 熟悉 Git / Github 與基本指令運用
   * 使用 Git / Github 進行版本控制
