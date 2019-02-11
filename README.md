@@ -9,7 +9,7 @@
 
 ## WORK EXPERIENCE
 
-#### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 前端設計師 - 2017 07-10 ~ 
+#### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 前端設計師 - 2017 07-10 ~ 2018 10-31
 
 * 網站與 APP 介面 UI 設計
 * 網站活動網頁設計、Banner設計、EDM視覺設計、APP UI規劃與設計
@@ -41,6 +41,11 @@
 * JavaScript
   * 熟悉 jQuery 設計網頁動畫效果，並套用三方動畫插件
   * 了解 JSON/AJAX ，並介接第三方 API 設計 SPA 介面 (Google Map、Open Data)
+* Vue.js
+  * 了解 Vue 的運行概念
+  * 使用 Vue 串接後端 API
+  * 使用Vue Router架構打造單頁應用(SPA)
+  * Vue 與 Webpack Cli 工具使用
 * Git & GitHub
   * 熟悉 Git / Github 與基本指令運用
   * 使用 Git / Github 進行版本控制
