@@ -11,7 +11,6 @@
 
 #### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 前端設計師 - 2017 07-10 ~ 2018 10-31
 
-* 網站與 APP 介面 UI 設計
 * 網站活動網頁設計、Banner設計、EDM視覺設計、APP UI規劃與設計
 * 全國高級中等學校職業類科專任教師赴公民營機構研習：http://study.htit.com.tw/
 * 原住民商品行銷創意大賽活動頁面製作
