@@ -67,23 +67,23 @@
   * 學院網 - HTML & CSS3 &Responsive Web Design
 
 ## THE F2E 前端修練精神時光屋
-* https://codepen.io/SmallFly/pen/qKRLpJ
+* https://codepen.io/SmallFly/full/qKRLpJ
   * THE F2E 前端修練精神時光屋 - 第一週 - Todolist
-* https://codepen.io/SmallFly/pen/RJLape
+* https://codepen.io/SmallFly/full/RJLape
   * THE F2E 前端修練精神時光屋 - 第二週 - Filter
-* https://codepen.io/SmallFly/pen/QxxXaV
+* https://codepen.io/SmallFly/full/QxxXaV
   * THE F2E 前端修練精神時光屋 - 第三週 - Admin Order
-* https://codepen.io/SmallFly/pen/vrVmOj
+* https://codepen.io/SmallFly/full/vrVmOj
   * THE F2E 前端修練精神時光屋 - 第四週 - Product Gallery
-* https://codepen.io/SmallFly/pen/bKZzBr
+* https://codepen.io/SmallFly/full/bKZzBr
   * THE F2E 前端修練精神時光屋 - 第五週 - Comic Viewer
-* https://codepen.io/SmallFly/pen/vaYreR
+* https://codepen.io/SmallFly/full/vaYreR
   * THE F2E 前端修練精神時光屋 - 第六週 - Validation
-* https://codepen.io/SmallFly/pen/oMbVqW
+* https://codepen.io/SmallFly/full/oMbVqW
   * THE F2E 前端修練精神時光屋 - 第七週 - Canvas Game
-* https://codepen.io/SmallFly/pen/bjoWzo
+* https://codepen.io/SmallFly/full/bjoWzo
   * THE F2E 前端修練精神時光屋 - 第八週 - parallax scrolling
-* https://codepen.io/SmallFly/pen/pZdMYg
+* https://codepen.io/SmallFly/full/pZdMYg
   * THE F2E 前端修練精神時光屋 - 第九週 - Skill Tree
   
 ## ABOUT ME
