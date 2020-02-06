@@ -9,12 +9,17 @@
 
 ## WORK EXPERIENCE
 
+#### 科技有限公司（）- 前端工程師 - 2018 04-01 ~ 迄今
+
+* 網頁設計、Banner設計、EDM視覺設計、APP UI規劃與設計
+* 資安整合平台的介面及報表設計
+
 #### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 前端設計師 - 2017 07-10 ~ 2018 10-31
 
-* 網站活動網頁設計、Banner設計、EDM視覺設計、APP UI規劃與設計
-* 全國高級中等學校職業類科專任教師赴公民營機構研習：http://study.htit.com.tw/
+* 活動網頁設計、Banner設計、EDM視覺設計、APP UI規劃與設計
+* 全國高級中等學校職業類科專任教師赴公民營機構研習：http://study.htit.com.tw/main/index.html
 * 原住民商品行銷創意大賽活動頁面製作
-* 互聯網生計假髮服務平台：https://wig.htit.com.tw/index.aspx
+* 互聯網生計假髮服務平台
 * 公司對外所有相關之形象、產品型錄、封面、摺頁等設計包裝
 * 導覽機與販賣機等機台貼皮設計
 
@@ -52,7 +57,7 @@
 
 ## WEB LAYOUT
 * https://wumenglin.github.io/test/dist/index.html#/
-  * 購物網與後台 - HTML & CSS3 &Responsive Web Design
+  * 購物網前台與後台 - HTML & CSS3 &Responsive Web Design
   * 使用Vue 串接後端 API
   * 使用Vue Router架構打造單頁應用(SPA)
 * https://wumenglin.github.io/Meng0603/
