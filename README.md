@@ -13,13 +13,13 @@
 
 * 網頁設計、Banner設計、EDM視覺設計、APP UI規劃與設計
 * 資安整合平台介面與報表設計
-* CyberX 資安平台系統
+* CyberX 資安平台系統：https://www.isac.org.tw/spaw2/uploads/files/1081025/5MARK.pdf
 * CyberX_CarbonBlack 資安平台系統
 * PAP效能分析平台(Performance Analysis Platform)
 * 花蓮縣政府農業處-花蓮縣土石流防災地理資訊系統：http://140.116.66.25/DPGI/login.aspx
 * 內政部國土測繪中心-基本地形圖資料庫分組入口網站：https://bmap.nlsc.gov.tw/
-* 臺南市政府警察局-臺南市道路交通事故斑點圖
-* 國立台北大學-採購系統、借用系統、報廢品系統
+* 臺南市政府警察局-臺南市道路交通事故斑點圖：http://tt.tnpd.gov.tw/search.aspx
+* 國立台北大學-採購系統、借用系統、報廢品系統：
 * 教育部國民及學前教育署-國民中學技藝教育推動工作專案：https://skillsedu.me.ntnu.edu.tw/ContactPage.aspx
 
 #### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 前端設計師 - 2017 07-10 ~ 2018 10-31
