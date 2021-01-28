@@ -9,7 +9,7 @@
 
 ## WORK EXPERIENCE
 
-#### 鴻寬科技有限公司（Hong Kuan Technology CO.,Ltd.）- 前端工程師 - 2018 04-01 ~ 迄今
+#### 鴻寬科技有限公司（Hong Kuan Technology CO.,Ltd.）- 前端工程師 - 2019 04-01 ~ 迄今
 
 * 網頁設計、Banner設計、EDM視覺設計、APP UI規劃與設計
 * 資安整合平台介面與報表設計
