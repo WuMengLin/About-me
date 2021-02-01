@@ -18,9 +18,9 @@
 * 花蓮縣政府農業處-花蓮縣土石流防災地理資訊系統：http://140.116.66.25/DPGI/login.aspx
 * 內政部國土測繪中心-基本地形圖資料庫分組入口網站：https://bmap.nlsc.gov.tw/
 * 臺南市政府警察局-臺南市道路交通事故斑點圖：http://tt.tnpd.gov.tw/search.aspx
-* 國立臺北大學-採購系統、借用系統、報廢品系統：
+* 國立臺北大學-採購系統、借用系統、報廢品系統
 * 教育部國民及學前教育署-國民中學技藝教育推動工作專案：https://skillsedu.me.ntnu.edu.tw/ContactPage.aspx
-* 經濟部技術處-無人載具科技創新沙盒：
+* 經濟部技術處-無人載具科技創新沙盒
 
 #### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 前端設計師 - 2017 07-10 ~ 2018 10-31
 
