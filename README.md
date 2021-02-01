@@ -11,8 +11,7 @@
 
 #### 鴻寬科技有限公司（Hong Kuan Technology CO.,Ltd.）- 前端工程師 - 2019 04-01 ~ 迄今
 
-* 網頁設計、APP UI/UX
-* 資安整合平台介面與報表設計
+* 資安整合平台介面與報表設計、網頁設計、APP UI/UX
 * CyberX 資安平台系統：https://www.isac.org.tw/spaw2/uploads/files/1081025/5MARK.pdf
 * CyberX_CarbonBlack 資安平台系統
 * PAP效能分析平台(Performance Analysis Platform)
@@ -21,6 +20,7 @@
 * 臺南市政府警察局-臺南市道路交通事故斑點圖：http://tt.tnpd.gov.tw/search.aspx
 * 國立臺北大學-採購系統、借用系統、報廢品系統：
 * 教育部國民及學前教育署-國民中學技藝教育推動工作專案：https://skillsedu.me.ntnu.edu.tw/ContactPage.aspx
+* 經濟部技術處-無人載具科技創新沙盒：
 
 #### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 前端設計師 - 2017 07-10 ~ 2018 10-31
 
