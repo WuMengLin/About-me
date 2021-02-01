@@ -61,7 +61,7 @@
 * Git & GitHub
   * 熟悉 Git / Github 與基本指令運用
   * 使用 Git / Github 進行版本控制
-* Adobe Photoshop & Illustrator
+* Adobe Photoshop & Adobe Illustrator & Adobe XD
 
 ## WEB LAYOUT
 * https://wumenglin.github.io/test/dist/index.html#/
