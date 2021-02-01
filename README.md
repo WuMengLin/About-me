@@ -74,6 +74,11 @@
   * 註冊/登入頁面 - AJAX/JSON 資料介接
 * https://wumenglin.github.io/Meng0609/
   * 旅遊網 - AJAX/JSON 資料介接
+* https://codepen.io/SmallFly/full/dyoKLzo
+  * 口罩地圖 - AJAX/JSON 資料介接
+  * Google Map Api 應用
+* https://codepen.io/SmallFly/full/XWrQWaq
+  * Firebase Message - Firebase 資料庫應用
 * https://wumenglin.github.io/Meng0608/
   * 身高體重指數計算 - localStorage/JSON 瀏覽器資料儲存
 * https://wumenglin.github.io/Meng0602/
