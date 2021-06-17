@@ -21,6 +21,8 @@
 * 國立臺北大學-採購系統、借用系統、報廢品系統
 * 教育部國民及學前教育署-國民中學技藝教育推動工作專案：https://skillsedu.me.ntnu.edu.tw/ContactPage.aspx
 * 經濟部技術處-無人載具科技創新沙盒
+* 國立臺北大學-校園雲平台2.0
+* 群創光電-簡訊推送系統
 
 #### 鴻泰資訊科技有限公司（HongTai Information Technology CO.,Ltd.）- 前端設計師 - 2017 07-10 ~ 2018 10-31
 
