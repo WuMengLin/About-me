@@ -75,7 +75,7 @@
   * 使用Vue 串接後端 API
   * Google Map Api 應用
 * https://codepen.io/SmallFly/full/MWoKqyw
-  * ToDoList 使用Vue 3 語法進行撰寫
+  * ToDoList - 使用Vue 3 語法進行撰寫
 * https://wumenglin.github.io/Meng0603/
   * 餐廳網 - HTML & CSS3 &Responsive Web Design
   * 首頁 - 第三方 API 介接 (Google Map)
