@@ -9,7 +9,7 @@
 
 ## WORK EXPERIENCE
 
-#### 鴻寬科技有限公司（Hong Kuan Technology CO.,Ltd.）- 前端工程師 - 2019 04-01 ~ 迄今
+#### 鴻寬科技有限公司（Hong Kuan Technology CO.,Ltd.）- 前端工程師 - 2019 04-01 ~ 2021 09-30
 
 * 資安整合平台介面與報表設計、網頁設計、APP UI/UX
 * CyberX 資安平台系統：https://www.isac.org.tw/spaw2/uploads/files/1081025/5MARK.pdf
