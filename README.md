@@ -9,6 +9,22 @@
 
 ## WORK EXPERIENCE
 
+#### 統一企業股份有限公司（Uni-President Enterprises Corporation）- 前端工程師 - 2022 01-21 ~ 至今
+
+* 玲廊滿藝線上藝廊：https://www.uniart.com.tw/
+* 團購網&UNI團購網系統：https://unilife.pec.com.tw/
+* 統流官網專案開發：https://www.upe.com.tw/
+* 入口網行動化 EIP：https://eip.pec.com.tw/
+* 統流多園區建置案 UPE
+* 物流車輛管理系統 LVM
+* 團購供應商服務平台 SCP
+* 福利社、流通群 Line+1 商城
+* 友友特約廠商平台 EPS 後台開發
+* Foodomo 配送平台後台開發
+* AI研究與應用
+  * 視覺險管理平台：https://risk-vision-fe.web.app/dashboard
+  * 會議逐字稿專案
+
 #### 鴻寬科技有限公司（Hong Kuan Technology CO.,Ltd.）- 前端工程師 - 2019 04-01 ~ 2021 09-30
 
 * 資安整合平台介面與報表設計、網頁設計、APP UI/UX
@@ -63,6 +79,11 @@
 * Git & GitHub
   * 熟悉 Git / Github 與基本指令運用
   * 使用 Git / Github 進行版本控制
+* Google Analytics
+  * 了解 GA 基本設定與追蹤碼安裝（GA4）
+  * 分析網站流量、使用者行為與轉換數據
+  * 設定事件追蹤（Event Tracking）與目標（Goals）
+  * 串接 Google Tag Manager 進行標籤管理
 * Adobe Photoshop & Adobe Illustrator & Adobe XD
 
 ## WEB LAYOUT
