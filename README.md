@@ -55,7 +55,6 @@
 * 文宣設計：國立臺灣歷史博物館
 * 網站規劃：台南市文化協會
 * 台南市文化協會官方網站規劃(wix)：http://leo80625.wixsite.com/fivechannels
-* 作品集連結：http://issuu.com/smallfly
 
 ## SKILLS
 
